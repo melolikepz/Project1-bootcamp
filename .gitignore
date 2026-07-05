@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 .qbc_venv/
-
+.venv/
+Divar.csv
+iran_city_classification.csv
