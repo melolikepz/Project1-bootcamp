@@ -2,4 +2,6 @@
 .qbc_venv/
 .venv/
 Divar.csv
+Divar_Iran.csv
 iran_city_classification.csv
+
